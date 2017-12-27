@@ -2,8 +2,10 @@ body{
   text-align: center;
 }
 
-.class{
-  background-image:url("./resources/photo/the-flatiron-building.png");
+.header{
+  background-image: url("../photo/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1{
